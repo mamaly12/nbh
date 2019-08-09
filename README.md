@@ -2,7 +2,7 @@
 
 STORIES
 ============
-• Create 2 Web Application (BackOce + Client Portal) based on PHP Laravel
+• Create 2 Web Application (BackOffice + Client Portal) based on PHP Laravel
 Web framework.
 
 • Each county has a different tax rate and collects a different amount of taxes.
@@ -23,7 +23,7 @@ The software should have the following features:
       (a) Information required for register form is 'name', 'surname', 'date-of-
     birth', 'email', 'password', 'phone-number'.
     
-      (b) If client made successful register, ll elds with random data 'ad-
+      (b) If client made successful register, all fields with random data 'ad-
       dress', 'country', 'trading-account-number', 'balance', 'open-trades','close-trades'.
       
     3. '/dashboard', this is a client dashboard, where client can see all infor-mation about him ('name', 'surname', 'date-of-birth', 'email', 'phone- number', 'address', 'country', 'trading-account-number', 'balance', 'open-trades', 'close-trades').
